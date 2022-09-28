@@ -1,7 +1,7 @@
 {
     "name": "Arbol-3",
     "description": "NFT-721 del Arbol-3",
-    "image": "https://raw.githubusercontent.com/Diferentt/NFT/main/assets/arbol03.jpeg",
+    "image": "https://raw.githubusercontent.com/Diferentt/NFT/main/assets/arbol03.gif",
 "attributes": [
     {
       "trait_type": "Base", 
@@ -43,5 +43,4 @@
       "value": 2
     }
   ]
-}
 }
